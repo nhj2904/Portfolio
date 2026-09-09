@@ -24,6 +24,14 @@ HappyU Farm allows users to select animals from a dropdown menu and add them to 
 - Positioning and layering shapes to build a character.
 - Contributing an individual component to a shared Java application.
 
+## Preview
+
+![HappyU Farm application showing my sheep character](screenshot.png)
+
+## Demo
+
+[Watch the application demo](demo.mp4)
+
 ---
 
 [Back to Foundation Projects](../README.md)
