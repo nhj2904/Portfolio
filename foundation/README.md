@@ -2,8 +2,8 @@
 
 Projects completed during my foundation studies at Heriot-Watt University Malaysia.
 
-| Project | Date | Languages (Libraries / Tools) |
-|---|---|---|
-| HappyU Met Gala Dinner Website | June 2023 | HTML, CSS, JavaScript, PHP, SQL (XAMPP) |
-| HappyU Farm GUI Application | March 2023 | Java (Swing, AWT, Java 2D; Eclipse IDE) |
-| Hangman Game | November 2022 | Java (arrays, ArrayList; Eclipse IDE) |
+| Project | Date | Languages Used | About the Project | My Contribution |
+|---|---|---|---|---|
+| HappyU Met Gala Dinner Website | June 2023 | HTML, CSS, JavaScript, PHP, SQL | A Bridgerton-themed event website with event information, registration and a guest database. | Contributed to the website design and created the About Us and admin login pages. |
+| HappyU Farm GUI Application | March 2023 | Java | An interactive farm application where users add drawn animals to a scene and move them using mouse dragging. | Designed and programmed the sheep character, and helped with the background and running of the application. |
+| Hangman Game | November 2022 | Java | A console-based word-guessing game with random word selection, six incorrect guesses, coloured output and replay options. | Created the Record class to collect and display player details and show the time each round ended. |
