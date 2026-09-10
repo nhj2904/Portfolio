@@ -4,8 +4,10 @@ An interactive Java farm application developed as a foundation group project at 
 
 | Detail | Information |
 |---|---|
-| Date | March 2023 |
+| Program | Higher Education in Foundation in Business, Actuarial Science |
 | Course | K17SD Data Structures and Software Design |
+| Semester | Semester 2
+| Date | March 2023 |
 | Language | Java |
 | Libraries | Swing, AWT, Java 2D |
 | Tool | Eclipse IDE |
