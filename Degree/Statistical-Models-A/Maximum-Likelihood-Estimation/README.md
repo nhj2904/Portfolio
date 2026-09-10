@@ -15,7 +15,7 @@ A Year 2 statistics project completed at Heriot-Watt University Malaysia, combin
 
 Investigated the behaviour of a maximum likelihood estimator for a probability distribution introduced in an insurance modelling scenario. Mathematical derivations and simulations were used to examine how estimation accuracy changes with sample size.
 
-## My Contribution
+## What I Did
 
 - Derived the maximum likelihood estimator, score function, Fisher information and Cramér–Rao lower bound.
 - Developed R analysis code using the supplied data-generation script.
