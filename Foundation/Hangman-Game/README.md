@@ -37,6 +37,10 @@ Players guess letters to uncover a randomly selected word, with up to six incorr
 
 [Watch the game demo](demo.mp4)
 
+## Availability
+
+The full submitted report and R script are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
+
 ---
 
 [Back to Foundation Projects](../README.md)
