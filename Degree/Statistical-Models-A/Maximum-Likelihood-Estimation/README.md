@@ -60,7 +60,7 @@ These results concern simulated data under the specified model; they do not esta
 
 ## Availability
 
-The full submitted report and R script are kept private but can be requested by contacting me at 29natasha.sj@gmail.com
+The full submitted report and R script are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
 
 ---
 
