@@ -4,8 +4,10 @@ A Bridgerton-themed event website developed as a foundation group project at Her
 
 | Detail | Information |
 |---|---|
-| Date | June 2023 |
+| Program | Higher Education in Foundation in Business, Actuarial Science |
 | Course | K17SW Web Development and Databases |
+| Semester | Semester 3 |
+| Date | June 2023 |
 | Languages | HTML, CSS, JavaScript, PHP, SQL |
 | Tools | SQLite, XAMPP |
 
