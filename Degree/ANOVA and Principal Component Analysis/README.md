@@ -1,4 +1,4 @@
-# Further Statistical Methods — Assessed Project
+# ANOVA and Principal Component Analysis
 
 A Year 2 statistics project completed at Heriot-Watt University Malaysia, applying statistical hypothesis testing and multivariate analysis using SPSS and R.
 
