@@ -4,8 +4,9 @@ A console-based Java Hangman game developed as a foundation group project at Her
 
 | Detail | Information |
 |---|---|
-| Date | November 2022 |
+| Program | Higher Education in Foundation in Business, Actuarial Science |
 | Course | K16SO Object-Oriented Programming |
+| Date | November 2022 |
 | Language | Java |
 | Libraries | ArrayList, Scanner, Random, SimpleDateFormat, Date |
 | Tool | Eclipse IDE |
