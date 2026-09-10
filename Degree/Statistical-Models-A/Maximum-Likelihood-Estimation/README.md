@@ -10,6 +10,7 @@ A Year 2 statistics project completed at Heriot-Watt University Malaysia, combin
 | Date | October 2024 |
 | Language | R |
 | Tool | RStudio |
+| Marks Obtained | 12.5/15 (Report) + 5/5 (Code) = 17.5/20 |
 
 ## About the Project
 
