@@ -13,48 +13,61 @@ A Year 2 statistics project completed at Heriot-Watt University Malaysia, applyi
 
 ## About the Project
 
-Applied statistical methods to analyse real-world datasets involving employee training performance and music characteristics.
+Applied statistical methods to analyse datasets involving employee training performance and music characteristics.
 
-The project investigated whether different training programmes produced significant differences in risk prediction accuracy using analysis of variance methods. Principal Component Analysis was also performed to reduce the dimensionality of music feature data and identify underlying patterns.
+The project investigated whether different training programmes produced significant differences in risk prediction accuracy using analysis of variance methods. Principal Component Analysis (PCA) was also performed to reduce multiple music features into fewer components and identify underlying patterns.
 
 ## What I Did
 
-- Conducted assumption checks for one-way ANOVA including normality and equality of variances.
-- Performed one-way ANOVA to evaluate differences between training programme groups.
-- Analysed effect size and statistical power of the treatment differences.
-- Performed planned contrast analysis between selected training programmes.
-- Conducted Tukey HSD and Games-Howell post-hoc comparisons.
-- Applied Principal Component Analysis (PCA) to simplify multiple music features into fewer components.
-- Interpreted statistical outputs and visualised findings using statistical software.
+- Checked ANOVA assumptions, including distribution patterns and equality of variances.
+- Performed one-way ANOVA to investigate differences between training programmes.
+- Analysed effect size and statistical significance of group differences.
+- Conducted planned and post-hoc comparisons using Tukey HSD and Games-Howell tests.
+- Applied Principal Component Analysis (PCA) to simplify multiple music characteristics.
+- Interpreted statistical outputs from SPSS and R.
 
 ## Results
 
-### One-Way ANOVA Analysis
+### ANOVA Assumption Check
 
-![ANOVA results](plots/anova-results.png)
+![ANOVA assumption check](plots/anova-assumption-dotplot.png)
 
-The analysis identified significant differences in prediction accuracy scores between training programmes, with the training programme factor showing a large effect on performance.
+The distribution of risk prediction accuracy scores across the five training programmes was examined before performing ANOVA.
+
+### One-Way ANOVA
+
+![One-way ANOVA results](plots/one-way-anova-results.png)
+
+The ANOVA test produced an F-statistic of 30.357 with a significance level below 0.001, indicating strong evidence that the mean accuracy scores differ between training programmes.
 
 ### Post-Hoc Comparisons
 
-![Post-hoc comparison](plots/post-hoc-results.png)
+#### Tukey HSD Test
 
-Pairwise comparisons were performed to determine which training programmes had statistically significant differences.
+![Tukey HSD comparisons](plots/tukey-test-comparisons.png)
+
+Tukey HSD was used for pairwise comparisons between programmes while controlling the overall family error rate.
+
+#### Games-Howell Test
+
+![Games-Howell comparisons](plots/gameshowell-test-comparisons.png)
+
+Games-Howell comparisons were performed as an alternative post-hoc method for analysing differences between programme groups.
 
 ### Principal Component Analysis
 
 ![PCA score plot](plots/pca-score-plot.png)
 
-PCA was used to transform multiple music characteristics into principal components, helping identify patterns and simplify data representation.
+PCA was applied to music feature data to reduce multiple variables into principal components. The first two principal components were visualised to identify patterns and relationships between observations.
 
 ## Skills Demonstrated
 
 - Statistical hypothesis testing.
 - Analysis of variance (ANOVA).
-- Post-hoc analysis.
+- Post-hoc comparison methods.
 - Principal Component Analysis (PCA).
-- Statistical interpretation using SPSS.
-- Data analysis and visualisation using R.
+- Statistical analysis using SPSS.
+- Data visualisation and interpretation using R.
 
 ## Availability
 
