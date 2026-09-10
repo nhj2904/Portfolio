@@ -6,7 +6,7 @@ A Year 2 statistics project completed at Heriot-Watt University Malaysia, applyi
 |---|---|
 | Program | Bachelor of Science (Hons) in Statistical Data Science |
 | Course | F79PS Further Statistical Methods |
-| Semester | Semester 1 |
+| Year and Semester | Year 2, Semester 1 |
 | Date | November 2024 |
 | Software/Language | SPSS, R |
 | Marks Obtained | Q1a (4.5/6) + Q1b (3/3) + Q1c (4/6) + Q2a (6.5/7) + Q2b (2.5/3) + Q2c (1.5/3) + Q2d (2/2) + Q2e (2/2) = 26/32 |
