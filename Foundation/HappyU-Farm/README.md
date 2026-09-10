@@ -7,7 +7,8 @@ An interactive Java farm application developed as a foundation group project at 
 | Date | March 2023 |
 | Course | K17SD Data Structures and Software Design |
 | Language | Java |
-| Libraries and Tools | Swing, AWT, Java 2D, Eclipse IDE |
+| Libraries | Swing, AWT, Java 2D |
+| Tool | Eclipse IDE |
 
 ## About the Project
 
