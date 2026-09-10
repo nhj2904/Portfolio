@@ -26,6 +26,14 @@ Players guess letters to uncover a randomly selected word, with up to six incorr
 - Formatting and displaying the current time.
 - Integrating an individual component into a shared application.
 
+## Preview
+
+![Hangman game running in the console](screenshot.png)
+
+## Demo
+
+[Watch the game demo](demo.mp4)
+
 ---
 
 [Back to Foundation Projects](../README.md)
