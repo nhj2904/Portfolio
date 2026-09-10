@@ -1,4 +1,4 @@
-# Statistical Models A — Assessed Project 1
+# Maximum Likelihood Estimation with R Simulation
 
 A Year 2 statistics project completed at Heriot-Watt University Malaysia, combining mathematical analysis with simulations in R.
 
