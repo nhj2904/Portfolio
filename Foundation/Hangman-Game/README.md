@@ -7,7 +7,7 @@ A console-based Java Hangman game developed as a foundation group project at Her
 | Date | November 2022 |
 | Course | K16SO Object-Oriented Programming |
 | Language | Java |
-| Libraries and Tools | Java standard library (ArrayList, Scanner, Random, SimpleDateFormat, Date), Eclipse IDE |
+| Libraries and Tools | Libraries: ArrayList, Scanner, Random, SimpleDateFormat, Date, Tool: Eclipse IDE |
 
 ## About the Project
 
