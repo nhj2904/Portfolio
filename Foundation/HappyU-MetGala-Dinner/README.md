@@ -18,6 +18,7 @@ A website for HappyU’s Gala Dinner 2023, featuring event information, an itine
 - Contributed to the website’s visual design.
 - Created the About Us page which presents the founder, venue, theme and music.
 - Created the administrator login page interface.
+- Added a video and a horizontally scrollable menu to the itinerary page.
 
 ## Skills Demonstrated
 
