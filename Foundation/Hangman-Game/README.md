@@ -28,7 +28,7 @@ Players guess letters to uncover a randomly selected word, with up to six incorr
 
 ## Preview
 
-![Hangman game running in the console](screenshot.png)
+![Hangman game running in the console](screenshot.jpg)
 
 ## Demo
 
