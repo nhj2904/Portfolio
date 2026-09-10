@@ -1,4 +1,4 @@
-# Statistical Models A — Assessed Project 2
+# Bayesian Estimation and Predictive Modelling
 
 A Year 2 statistics project completed at Heriot-Watt University Malaysia, combining Bayesian statistical modelling, mathematical derivations and simulations in R.
 
