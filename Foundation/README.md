@@ -10,4 +10,4 @@ Projects completed during my foundation studies at Heriot-Watt University Malays
 
 ## Availability
 
-The full submitted report and R script are kept private but can be requested by contacting me at 29natasha.sj@gmail.com
+The full submitted report and R script are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
