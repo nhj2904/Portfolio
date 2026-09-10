@@ -89,7 +89,7 @@ The joint posterior samples illustrate the relationship between β and θ after 
 
 Posterior lifetime distributions were compared between manufacturers.
 
-The analysis estimates the uncertainty of the mean lifetime for each manufacturer, allowing conclusions to be drawn about which manufacturer is more likely to produce longer-lasting lightbulbs.
+The analysis estimates the uncertainty of the mean lifetime for each manufacturer, allowing conclusions to be drawn about which manufacturer is more likely to produce longer-lasting lightbulbs. In this case, it is evidently clear that manufacturer B is more likely to produce longer-lasting lightbulbs.
 
 ## Skills Demonstrated
 
