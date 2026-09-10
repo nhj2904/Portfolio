@@ -6,7 +6,7 @@ A Year 2 statistics project completed at Heriot-Watt University Malaysia, combin
 |---|---|
 | Program | Bachelor of Science (Hons) in Statistical Data Science |
 | Course | F79MA Statistical Models A |
-| Semester | Semester 1 |
+| Year and Semester | Year 2, Semester 1 |
 | Date | November 2024 |
 | Language | R |
 | Tool | RStudio |
