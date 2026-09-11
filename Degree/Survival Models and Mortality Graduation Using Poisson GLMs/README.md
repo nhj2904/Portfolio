@@ -112,9 +112,7 @@ A lower AIC value indicates a better balance between goodness-of-fit and model c
 | M2 (Quadratic) | 461.5505 |
 | M3 (Cubic) | 452.4380 |
 
-Based on the AIC comparison, **M3 (Cubic Model)** achieved the lowest AIC value and was selected as the preferred model.
-
-The cubic model provided the best balance between flexibility and goodness-of-fit among the tested approaches.
+Based on the AIC comparison, **M3 (Cubic Model)** achieved the lowest AIC value and was selected as the preferred model. The cubic model provided the best balance between flexibility and goodness-of-fit among the tested approaches.
 
 ---
 
