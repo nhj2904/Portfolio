@@ -145,21 +145,21 @@ These tests were used to evaluate whether residuals showed systematic patterns a
 
 ## Data Files
 
-### `CMI_Deaths.csv`
+## `CMI_Deaths.csv`
 
 Contains mortality death counts used for estimating mortality rates.
 
-### `CMI_Exposures.csv`
+## `CMI_Exposures.csv`
 
 Contains exposure data used alongside death counts to calculate mortality rates.
 
 ## R Scripts
 
-### `CMI_read.r`
+## `CMI_read.r`
 
 Used for importing and preparing the CMI mortality datasets, including converting exposure values into central exposures and selecting the required age and year ranges.
 
-### `Test_GoF.r`
+## `Test_GoF.r`
 
 Contains functions for statistical goodness-of-fit testing, including chi-square tests, standardised deviation tests, sign tests, runs tests and serial correlation tests.
 
