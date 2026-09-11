@@ -151,12 +151,9 @@ Included files:
 
 # Availability
 
-The original coursework report and R script are not included in this repository.
+The repository contains the datasets, selected visualisations and an analysis summary.
 
-This repository contains:
-- Dataset files.
-- Selected visualisations.
-- Project summary.
+The full coursework notebook and submission files are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
 
 ---
 
