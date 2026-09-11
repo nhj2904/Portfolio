@@ -160,7 +160,3 @@ Due to confidentiality requirements:
 - Production Salesforce data is not included.
 - Contract documents and sensitive business information have been removed.
 - Screenshots and demonstrations only showcase the application's interface and workflow.
-
----
-
-[Back to Internship Projects](../README.md)
