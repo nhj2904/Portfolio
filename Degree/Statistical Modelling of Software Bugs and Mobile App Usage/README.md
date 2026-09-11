@@ -89,4 +89,4 @@ The full submitted report and R script are kept private but can be requested by 
 
 ---
 
-[Back to Statistical Data Science Projects](../README.md)
+[Back to Degree Projects](../README.md)
