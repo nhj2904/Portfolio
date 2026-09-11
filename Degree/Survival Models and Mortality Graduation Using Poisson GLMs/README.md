@@ -177,13 +177,9 @@ The project highlights the application of statistical modelling techniques in ac
 
 # Availability
 
-This repository contains:
+The repository contains the datasets, selected visualisations and an analysis summary.
 
-- Dataset files
-- R scripts
-- Selected statistical visualisations
-
-The original coursework report is not included.
+The full coursework notebook and submission files are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
 
 ---
 
