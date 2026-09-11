@@ -48,7 +48,7 @@ The analysis explored relationships between:
 - Legacy users
 - Mobile network speed
 
-The dataset contained observations of signal, bandwidth, legacy users and achieved speed measurements. :contentReference[oaicite:0]{index=0}
+The dataset contained observations of signal, bandwidth, legacy users and achieved speed measurements. 
 
 The exploratory analysis suggested that bandwidth had a strong relationship with network speed, supporting its inclusion as a predictor in regression modelling.
 
@@ -142,7 +142,7 @@ The datasets used in this project are included in the `data` folder.
 Included files:
 
 - `MobileNetwork.txt`
-  - Contains mobile network observations including signal strength, bandwidth, legacy users and achieved speed. :contentReference[oaicite:1]{index=1}
+  - Contains mobile network observations including signal strength, bandwidth, legacy users and achieved speed. 
 
 - `rent.csv`
   - Contains bike rental observations used for GLM analysis.
