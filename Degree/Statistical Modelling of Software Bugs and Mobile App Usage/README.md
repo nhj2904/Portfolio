@@ -53,7 +53,7 @@ The app session durations showed moderate positive skewness and variability, wit
 
 ![App session dotplot](plots/app-session-dotplot.png)
 
-The dotplot displays the individual session durations, providing additional insight into the spread of observations and the distribution of the sample.
+The dotplot displays individual session durations, providing additional insight into the spread of observations and the distribution of the sample.
 
 ### Bootstrap Confidence Interval for Median
 
@@ -83,9 +83,20 @@ A parametric bootstrap hypothesis test was conducted to evaluate the claim that 
 - Simulation-based hypothesis testing.
 - Data analysis and visualisation using R.
 
+## Dataset
+
+The datasets used in this project are included in the `data` folder.
+
+Included files:
+
+- `bug_time.txt` — Software bug-fix resolution time observations.
+- `app_session_duration.txt` — Mobile application session duration observations.
+
 ## Availability
 
-The full submitted report and R script are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
+The repository contains the datasets, selected visualisations and analysis summary.
+
+The original submitted report and R script are not included.
 
 ---
 
