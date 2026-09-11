@@ -115,6 +115,8 @@ Included files:
 
 ## Availability
 
+The repository contains the datasets, selected visualisations and an analysis summary.
+
 The full coursework notebook and submission files are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
 
 ---
