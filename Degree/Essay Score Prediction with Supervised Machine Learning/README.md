@@ -1,6 +1,6 @@
 # Automated Essay Scoring with Machine Learning
 
-Ranked **4th place out of 253 participants** in the **HWU F78DS January Semester 2025 In-Course Competition** on Kaggle.
+Ranked **4th place out of 253 participants** in the [HWU F78DS January Semester 2025 Kaggle Competition](https://www.kaggle.com/competitions/hwu-f78ds-january-semester-2025).
 
 A Year 2 data science project applying supervised machine learning techniques to predict essay scores from extracted textual features.
 
@@ -10,19 +10,20 @@ A Year 2 data science project applying supervised machine learning techniques to
 | Course | F78DS Data Science Life Cycle |
 | Year and Semester | Year 2, Semester 2 |
 | Date | April 2025 |
+| Competition | [HWU F78DS January Semester 2025](https://www.kaggle.com/competitions/hwu-f78ds-january-semester-2025) |
 | Language | Python |
 | Tool | Jupyter Notebook |
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| Marks Obtained | 28.33/30 |
 | Competition Result | 4th / 253 Participants |
+| Marks Obtained | 28.33/30 |
 
 ## About the Project
 
 Participated in the HWU F78DS January Semester 2025 in-course machine learning competition, where the objective was to predict essay scores using extracted textual features.
 
-The task was formulated as a multi-class classification problem, where essay characteristics were used to predict scores ranging from 1 to 6. Model performance was evaluated using the Quadratic Weighted Kappa (QWK) metric.
+The task was formulated as a multi-class classification problem, where numerical features extracted from essays were used to predict scores ranging from 1 to 6.
 
-The project followed the data science lifecycle, including exploratory data analysis, feature engineering, preprocessing, supervised learning and model evaluation.
+The project followed the data science lifecycle, including exploratory data analysis, feature engineering, preprocessing, supervised learning and model evaluation using the Quadratic Weighted Kappa (QWK) metric.
 
 ## What I Did
 
@@ -40,7 +41,7 @@ The project followed the data science lifecycle, including exploratory data anal
 
 ![Feature distributions](plots/feature-distributions.png)
 
-Exploratory analysis was performed to understand the distribution and variation of extracted essay features. Different features showed different scales and distributions, highlighting the importance of preprocessing before model training.
+Exploratory data analysis was performed to understand the distribution and variation of extracted essay features. Different features showed different scales and distributions, highlighting the importance of preprocessing before applying machine learning models.
 
 ### Feature Correlation Analysis
 
@@ -52,12 +53,12 @@ Correlation analysis was used to investigate relationships between essay feature
 
 ![Model comparison](plots/model-comparison.png)
 
-Two classification models were evaluated:
+Two supervised classification models were evaluated:
 
 - Gaussian Naive Bayes achieved a QWK score of **0.7208**.
 - Random Forest achieved a higher QWK score of **0.7448**.
 
-Random Forest achieved better overall performance and was selected as the stronger-performing model.
+Random Forest demonstrated better overall performance and was selected as the stronger-performing model.
 
 ### Gaussian Naive Bayes Confusion Matrix
 
@@ -77,43 +78,44 @@ The final model achieved:
 
 **4th Place / 253 Participants**
 
-in the HWU F78DS January Semester 2025 Kaggle in-course competition.
+in the [HWU F78DS January Semester 2025 Kaggle Competition](https://www.kaggle.com/competitions/hwu-f78ds-january-semester-2025).
 
-The competition used **Quadratic Weighted Kappa (QWK)** as the evaluation metric, measuring the agreement between predicted and actual essay scores while considering the distance between incorrect predictions.
+The competition used **Quadratic Weighted Kappa (QWK)** as the evaluation metric. QWK measures agreement between predicted and actual essay scores while considering the difference between incorrect predictions.
 
 ## Skills Demonstrated
 
 - Exploratory data analysis.
 - Feature engineering and preprocessing.
 - Multi-class classification.
-- Machine learning model evaluation.
+- Supervised machine learning.
+- Model evaluation and comparison.
 - Python programming with Scikit-learn.
 - Data visualisation using Matplotlib and Seaborn.
 - Kaggle competition workflow.
 
 ## Dataset
 
-The competition datasets contain extracted numerical features from essays, including:
+The dataset was provided through the HWU F78DS January Semester 2025 Kaggle competition.
 
-- Essay length features (characters, words, sentences).
+The essay dataset contains extracted numerical features including:
+
+- Essay length features (characters, words and sentences).
 - Punctuation usage.
 - Average word length.
 - Part-of-speech features.
 - Prompt-related word features.
 - Synonym and vocabulary-related features.
-- Essay score labels (1–6).
+- Essay score labels ranging from 1 to 6.
 
 Included files:
 
-- `F78DS-Essay-Features.csv`
-- `F78DS-Essay-Features-Submission.csv`
+- `Essay-Features.csv`
+- `Essay-Features-Submission.csv`
 - `Kaggle Submission File.csv`
 
 ## Availability
 
-This repository contains selected visualisations, competition datasets and submission output.
-
-The original modelling notebook is not included.
+The full coursework notebook and submission files are kept private but can be requested by contacting me at: 29natasha.sj@gmail.com
 
 ---
 
