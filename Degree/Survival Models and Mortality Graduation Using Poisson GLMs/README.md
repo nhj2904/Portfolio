@@ -37,9 +37,7 @@ The project used CMI mortality data consisting of:
 - Age groups
 - Calendar years
 
-The data preparation involved reading mortality and exposure datasets, converting exposures into central exposures, and selecting the required age and year ranges before modelling.
-
-The included R scripts contain the data processing steps and goodness-of-fit functions used throughout the analysis.
+The data preparation involved reading mortality and exposure datasets, converting exposures into central exposures, and selecting the required age and year ranges before modelling. The included R scripts contain the data processing steps and goodness-of-fit functions used throughout the analysis.
 
 ---
 
@@ -64,9 +62,7 @@ The following statistical methods were applied:
 
 ![Observed log mortality rates](plots/mortality-log-plot.png)
 
-The observed log mortality rates show an increasing relationship between age and mortality.
-
-The approximately linear pattern supports the use of the Gompertz mortality model as a starting point. However, some deviations from linearity can be observed, suggesting that more flexible models may provide improved fitting performance.
+The observed log mortality rates show an increasing relationship between age and mortality. The approximately linear pattern supports the use of the Gompertz mortality model as a starting point. However, some deviations from linearity can be observed, suggesting that more flexible models may provide improved fitting performance.
 
 ---
 
@@ -82,9 +78,7 @@ Three mortality graduation models were fitted and compared:
 | M2 | Quadratic extension model |
 | M3 | Cubic extension model |
 
-The quadratic and cubic models introduced additional flexibility to capture possible curvature in mortality trends.
-
-The comparison showed that the extended models provided improved fitting behaviour compared with the standard Gompertz model, particularly where the observed mortality trend deviated from a simple linear relationship.
+The quadratic and cubic models introduced additional flexibility to capture possible curvature in mortality trends. The comparison showed that the extended models provided improved fitting behaviour compared with the standard Gompertz model, particularly where the observed mortality trend deviated from a simple linear relationship.
 
 ---
 
