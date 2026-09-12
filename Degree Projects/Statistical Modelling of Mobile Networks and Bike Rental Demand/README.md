@@ -7,7 +7,7 @@ A Year 2 statistical modelling project completed at Heriot-Watt University Malay
 | Program | Bachelor of Science (Hons) in Statistical Data Science |
 | Course | F79MB Statistical Models B |
 | Year and Semester | Year 2, Semester 2 |
-| Date | February 2026 |
+| Date | March 2026 - April 2026 |
 | Language | R |
 | Tool | RStudio |
 | Marks Obtained | 53.5/60 |
