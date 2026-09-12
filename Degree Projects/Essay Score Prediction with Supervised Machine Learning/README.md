@@ -1,4 +1,4 @@
-# Automated Essay Scoring with Machine Learning
+# Essay Score Prediction with Supervised Machine Learning
 
 Ranked **4th place out of 253 participants** in the [HWU F78DS January Semester 2025 Kaggle Competition](https://www.kaggle.com/competitions/hwu-f78ds-january-semester-2025).
 
