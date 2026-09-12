@@ -9,7 +9,7 @@ A Year 2 data science project applying supervised machine learning techniques to
 | Program | Bachelor of Science (Hons) in Statistical Data Science |
 | Course | F78DS Data Science Life Cycle |
 | Year and Semester | Year 2, Semester 2 |
-| Date | April 2025 |
+| Date | March 2025 - April 2025 |
 | Competition | [HWU F78DS January Semester 2025](https://www.kaggle.com/competitions/hwu-f78ds-january-semester-2025) |
 | Language | Python |
 | Tool | Jupyter Notebook |
